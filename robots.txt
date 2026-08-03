@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-eshcb1.goltogel56ugx.cyou/sitemap.xml
